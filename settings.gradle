@@ -1,0 +1,4 @@
+rootProject.name = 'kafka-docker'
+include 'producer-api'
+include 'consumer-api'
+
